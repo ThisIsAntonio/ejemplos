@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Ejemplo3",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"capacidad",
+		"carga"
+	],
+	"name" : "Camion",
+	"type" : "normal"
+}
