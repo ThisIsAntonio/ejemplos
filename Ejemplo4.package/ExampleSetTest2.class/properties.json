@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Ejemplo4",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"full",
+		"empty"
+	],
+	"name" : "ExampleSetTest2",
+	"type" : "normal"
+}
