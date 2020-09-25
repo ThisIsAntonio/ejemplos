@@ -1,0 +1,2 @@
+# ejemplos
+practicando con pharo
