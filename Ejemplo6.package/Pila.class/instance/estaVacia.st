@@ -1,4 +1,4 @@
 acceso
 estaVacia
 
-	^ (elementos size == 0).
+	^ elementos size == 0.
