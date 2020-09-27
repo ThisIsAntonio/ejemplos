@@ -1,0 +1,4 @@
+acciones
+desapilar
+
+	^elementos removeLast.
